@@ -346,7 +346,7 @@
   (function () {
     const showDelay = 3000; // 3 seconds delay before first show
     const realCloseDelay = 3000; // 3 seconds before real close appears
-    const reappearDelay = 60000; // 60 seconds before reappearance
+    const reappearDelay = 120000; // 60 seconds before reappearance
     
     const adOverlay = document.getElementById('ad-overlay');
     const adContainer = document.getElementById('ad-container');
